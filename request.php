@@ -25,8 +25,6 @@ if ($modo == 0) {
 }
  
 $message = $update["message"]["text"];
- 
-//$agg = json_encode($update, JSON_PRETTY_PRINT);
 
 //Con explode tomamos el primer valor del mensaje, que será el comando.
 $arr = explode(' ',trim($message));
