@@ -1,1 +1,1 @@
-<?php $idAUtilizar=1; ?>
+<?php $idAUtilizar=NULL; ?>
