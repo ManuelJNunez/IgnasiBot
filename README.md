@@ -1,4 +1,4 @@
-# IgnasiBot
-A bot for Telegram made with PHP. 2019
+# Ignasi~~o~~Bot
+A bot for Telegram made with node.js. 2023
 
 ## Second
